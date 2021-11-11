@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DialogFragment</string>
+
+
+    <string name="label_logout">Sample Title</string>
+    <string name="msg_logout">Do you want to use fragment dialog?</string>
+    <string name="label_cancel">No</string>
+    <string name="label_ok">Yes</string>
+    <string name="msg_enter_details">Please Enter your age</string>
+    <string name="msg_hint_name">Enter AGE here</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_simple_dialog">Simple Dialog</string>
+    <string name="label_dialog_with_data">Dialog With Data</string>
+
+
+
+</resources>
